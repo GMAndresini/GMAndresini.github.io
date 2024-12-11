@@ -13,16 +13,7 @@ Instituto Tecnológico Autónomo de México (2021-2026).
 
      ![_config.yml]({{ site.baseurl }}/images/img1.jpg)
 
-## Habilidades
-## Dominio de lenguajes de programación
-   * Python, Java
-## Aprendizaje de máquina e IA
-   * Scikit-learn, PyTorch 
-## Bases de datos
-   * SQL, MongoDB, Hadoop 
-## Visualización de datos
-## Manipulación de datos
-   * Pandas, Polars
+
 
 
 

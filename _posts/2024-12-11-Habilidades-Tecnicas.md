@@ -2,8 +2,7 @@
 layout: post
 title: Habilidades Técnicas
 ---
-
-
+![_config.yml]({{ site.baseurl }}/images/img2.jpg)
 ## Dominio de lenguajes de programación
    * Python, Java
 ## Aprendizaje de máquina e IA

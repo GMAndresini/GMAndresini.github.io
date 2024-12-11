@@ -11,6 +11,6 @@ Instituto Tecnológico Autónomo de México (2021-2026).
 * Estoy buscando un puesto de análisis de datos donde pueda aplicar mis habilidades técnicas para el respaldo de la toma de decisiones basadas en datos.
 
 
-![_config.yml]({{ site.baseurl }}/images/img1.jpg)
+     ![_config.yml]({{ site.baseurl }}/images/img1.jpg)
 
 

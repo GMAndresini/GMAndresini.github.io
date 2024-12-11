@@ -16,6 +16,7 @@ Instituto Tecnológico Autónomo de México (2021-2026).
 ---
 layout: post
 title: Habilidades
+---
 ## Dominio de lenguajes de programación
 * Python, Java
 ## Aprendizaje de máquina e IA

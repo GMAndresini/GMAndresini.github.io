@@ -10,5 +10,6 @@ title: Habilidades Técnicas
 ## Bases de datos
    * SQL, MongoDB, Hadoop 
 ## Visualización de datos
+   * Tableau
 ## Manipulación de datos
    * Pandas, Polars
